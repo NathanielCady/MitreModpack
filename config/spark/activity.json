@@ -1,0 +1,39 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "JamesPomeroy",
+      "uniqueId": "e6e1fdd8-d116-49ec-8e8c-5a87bf918583"
+    },
+    "time": 1707081009477,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1rrVKvfc5e"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1707014324277,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/axu1XRBF8z"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1707013300240,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6kpaGvTAJJ"
+    }
+  }
+]
